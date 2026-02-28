@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently a 3rd student at heritage institute of technology<br>Passionate about WEB devlopement and machine learning<br>Currently learning MERN stack and data structures and algorithms
+i am currently a 3rd student at Heritage Institute of Technology<br>Passionate about Web developement and Machine Learning<br>Currently learning MERN stack and Data Structures and Algorithms
 
 
 ## 🌐 Socials:
