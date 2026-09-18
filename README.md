@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently a 3rd year student at Heritage Institute of Technology<br>Passionate about Web developement and Machine Learning<br>Currently working on MERN stack and Data Structures and Algorithms
+i am currently a 4th year student at Heritage Institute of Technology<br>Passionate about Web developement and Machine Learning<br>Currently working on MERN stack and Data Structures and Algorithms
 
 
 ## 🌐 Socials:
